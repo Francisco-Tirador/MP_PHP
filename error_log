@@ -1,0 +1,650 @@
+[10-Nov-2023 23:05:13 UTC] PHP Parse error:  syntax error, unexpected namespaced name "MercadoPago\SDK" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 4
+[10-Nov-2023 23:05:58 UTC] PHP Parse error:  syntax error, unexpected namespaced name "MercadoPago\SDK" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 4
+[10-Nov-2023 23:05:59 UTC] PHP Parse error:  syntax error, unexpected namespaced name "MercadoPago\SDK" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 4
+[10-Nov-2023 23:07:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/composer/platform_check.php on line 24
+[10-Nov-2023 23:07:59 UTC] PHP Warning:  require(/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 3
+[10-Nov-2023 23:07:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:3
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require()
+#1 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 3
+[10-Nov-2023 23:10:21 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/composer/platform_check.php on line 24
+[10-Nov-2023 23:10:31 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/composer/platform_check.php on line 24
+[10-Nov-2023 23:10:32 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/composer/platform_check.php on line 24
+[10-Nov-2023 23:10:38 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/composer/platform_check.php on line 24
+[10-Nov-2023 23:10:39 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/composer/platform_check.php on line 24
+[10-Nov-2023 23:10:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/composer/platform_check.php on line 24
+[10-Nov-2023 23:10:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/composer/platform_check.php on line 24
+[10-Nov-2023 23:10:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/composer/platform_check.php on line 24
+[10-Nov-2023 23:13:31 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\SDK" not found in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:6
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require()
+#1 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 6
+[10-Nov-2023 23:14:33 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\SDK" not found in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:6
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require()
+#1 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 6
+[10-Nov-2023 23:15:25 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\SDK" not found in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:6
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require()
+#1 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 6
+[10-Nov-2023 23:15:36 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\SDK" not found in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:6
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require()
+#1 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 6
+[10-Nov-2023 23:15:37 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/composer/platform_check.php on line 24
+[10-Nov-2023 23:17:11 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/composer/platform_check.php on line 24
+[10-Nov-2023 23:28:35 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/composer/platform_check.php on line 24
+[11-Nov-2023 00:02:01 UTC] PHP Warning:  readfile(/home/wwtrac/public_html/sasammr/MercadoPago/../../client/sasammr/MercadoPago/): Failed to open stream: No such file or directory in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 61
+[11-Nov-2023 00:02:01 UTC] PHP Warning:  Undefined variable $preference in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 26
+[11-Nov-2023 00:02:01 UTC] PHP Warning:  Attempt to read property "id" on null in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 26
+[11-Nov-2023 00:04:10 UTC] PHP Warning:  readfile(/home/wwtrac/public_html/sasammr/MercadoPago/../../client/sasammr/MercadoPago/): Failed to open stream: No such file or directory in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 61
+[11-Nov-2023 00:04:10 UTC] PHP Warning:  Undefined variable $preference in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 26
+[11-Nov-2023 00:04:10 UTC] PHP Warning:  Attempt to read property "id" on null in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 26
+[11-Nov-2023 00:04:18 UTC] PHP Warning:  Array to string conversion in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 52
+[11-Nov-2023 00:04:18 UTC] PHP Fatal error:  Uncaught TypeError: explode(): Argument #2 ($string) must be of type string, array given in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:53
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/preference.php(53): explode('.', Array)
+#1 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require('/home/wwtrac/pu...')
+#2 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 53
+[11-Nov-2023 00:04:55 UTC] PHP Fatal error:  Uncaught TypeError: explode(): Argument #2 ($string) must be of type string, array given in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:53
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/preference.php(53): explode('.', Array)
+#1 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require('/home/wwtrac/pu...')
+#2 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 53
+[11-Nov-2023 00:05:21 UTC] PHP Warning:  Undefined variable $preference in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 26
+[11-Nov-2023 00:05:21 UTC] PHP Warning:  Attempt to read property "id" on null in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 26
+[11-Nov-2023 00:14:36 UTC] {"message":"currency_id invalid","error":"invalid_items","status":400,"cause":null}
+[11-Nov-2023 00:19:53 UTC] {"message":"currency_id invalid","error":"invalid_items","status":400,"cause":null}
+[11-Nov-2023 00:21:45 UTC] {"message":"currency_id invalid","error":"invalid_items","status":400,"cause":null}
+[11-Nov-2023 00:26:56 UTC] {"message":"currency_id invalid","error":"invalid_items","status":400,"cause":null}
+[14-Nov-2023 16:14:52 UTC] PHP Parse error:  syntax error, unexpected variable "$client" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 35
+[14-Nov-2023 16:16:37 UTC] PHP Warning:  require(./MercadoPago/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 16:16:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './MercadoPago/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 16:17:32 UTC] PHP Warning:  require(./MercadoPago/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 16:17:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './MercadoPago/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 16:17:33 UTC] PHP Warning:  require(./MercadoPago/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 16:17:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './MercadoPago/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 16:17:35 UTC] PHP Warning:  require(./MercadoPago/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 16:17:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './MercadoPago/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 16:18:13 UTC] PHP Fatal error:  Uncaught Error: Class "PaymentMethodClient" not found in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 16:21:54 UTC] PHP Warning:  require(./MercadoPago/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 16:21:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './MercadoPago/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 16:22:30 UTC] PHP Warning:  Undefined array key "orden" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 8
+[14-Nov-2023 16:22:30 UTC] PHP Warning:  Undefined variable $conceptoTotal in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 9
+[14-Nov-2023 16:22:30 UTC] PHP Warning:  Undefined variable $pago in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 11
+[14-Nov-2023 16:22:30 UTC] PHP Warning:  Attempt to read property "total" on null in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 11
+[14-Nov-2023 16:22:30 UTC] PHP Fatal error:  Uncaught Exception: Wrong type NULL. It should be float for property unit_price in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:455
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(364): MercadoPago\Entity->tryFormat(NULL, 'float', 'unit_price')
+#1 /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(308): MercadoPago\Entity->_setValue('unit_price', NULL)
+#2 /home/wwtrac/public_html/sasammr/MercadoPago/preference.php(11): MercadoPago\Entity->__set('unit_price', NULL)
+#3 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php on line 455
+[14-Nov-2023 16:22:58 UTC] PHP Fatal error:  Uncaught Error: Class "PaymentMethodClient" not found in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 42
+[14-Nov-2023 16:25:20 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\PaymentMethodClient" not found in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 11
+[14-Nov-2023 18:10:21 UTC] PHP Warning:  require(./MercadoPago/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 18:10:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './MercadoPago/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:2
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require()
+#1 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 18:10:40 UTC] PHP Warning:  Undefined array key "orden" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 8
+[14-Nov-2023 18:10:40 UTC] PHP Warning:  Undefined variable $conceptoTotal in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 9
+[14-Nov-2023 18:10:40 UTC] PHP Warning:  Undefined variable $pago in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 11
+[14-Nov-2023 18:10:40 UTC] PHP Warning:  Attempt to read property "total" on null in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 11
+[14-Nov-2023 18:10:40 UTC] PHP Fatal error:  Uncaught Exception: Wrong type NULL. It should be float for property unit_price in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:455
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(364): MercadoPago\Entity->tryFormat(NULL, 'float', 'unit_price')
+#1 /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(308): MercadoPago\Entity->_setValue('unit_price', NULL)
+#2 /home/wwtrac/public_html/sasammr/MercadoPago/preference.php(11): MercadoPago\Entity->__set('unit_price', NULL)
+#3 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require('/home/wwtrac/pu...')
+#4 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php on line 455
+[14-Nov-2023 18:10:50 UTC] PHP Warning:  Undefined variable $preference in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 55
+[14-Nov-2023 18:10:50 UTC] PHP Warning:  Attempt to read property "id" on null in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 55
+[14-Nov-2023 18:14:21 UTC] PHP Warning:  Undefined variable $preference in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 55
+[14-Nov-2023 18:14:21 UTC] PHP Warning:  Attempt to read property "id" on null in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 55
+[14-Nov-2023 18:14:23 UTC] PHP Warning:  Undefined variable $preference in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 55
+[14-Nov-2023 18:14:23 UTC] PHP Warning:  Attempt to read property "id" on null in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 55
+[14-Nov-2023 18:14:26 UTC] PHP Warning:  Undefined variable $preference in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 55
+[14-Nov-2023 18:14:26 UTC] PHP Warning:  Attempt to read property "id" on null in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 55
+[14-Nov-2023 18:15:19 UTC] PHP Warning:  Undefined variable $preference in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 55
+[14-Nov-2023 18:15:19 UTC] PHP Warning:  Attempt to read property "id" on null in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 55
+[14-Nov-2023 18:16:40 UTC] PHP Warning:  Undefined variable $preference in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 55
+[14-Nov-2023 18:16:40 UTC] PHP Warning:  Attempt to read property "id" on null in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 55
+[14-Nov-2023 18:16:41 UTC] PHP Warning:  Undefined variable $preference in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 55
+[14-Nov-2023 18:16:41 UTC] PHP Warning:  Attempt to read property "id" on null in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 55
+[14-Nov-2023 18:16:53 UTC] PHP Warning:  Undefined variable $preference in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 55
+[14-Nov-2023 18:16:53 UTC] PHP Warning:  Attempt to read property "id" on null in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 55
+[14-Nov-2023 18:17:48 UTC] PHP Warning:  Undefined variable $preference in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 54
+[14-Nov-2023 18:17:48 UTC] PHP Warning:  Attempt to read property "id" on null in /home/wwtrac/public_html/sasammr/MercadoPago/index.php on line 54
+[14-Nov-2023 18:26:12 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:9
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require()
+#1 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 9
+[14-Nov-2023 18:30:28 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\SDK" not found in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:6
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require()
+#1 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 6
+[14-Nov-2023 18:30:32 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\SDK" not found in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:6
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require()
+#1 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 6
+[14-Nov-2023 18:30:46 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 9
+[14-Nov-2023 18:30:46 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 10
+[14-Nov-2023 18:30:46 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 11
+[14-Nov-2023 18:30:46 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 12
+[14-Nov-2023 18:30:46 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 13
+[14-Nov-2023 18:30:46 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 14
+[14-Nov-2023 18:30:46 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 17
+[14-Nov-2023 18:30:46 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 19
+[14-Nov-2023 18:30:46 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:30:47UTC;b7ac6ebb-b692-4f37-8a69-776dd9eaf5b5"}]}
+[14-Nov-2023 18:31:48 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 9
+[14-Nov-2023 18:31:48 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 10
+[14-Nov-2023 18:31:48 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 11
+[14-Nov-2023 18:31:48 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 12
+[14-Nov-2023 18:31:48 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 13
+[14-Nov-2023 18:31:48 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 14
+[14-Nov-2023 18:31:48 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 17
+[14-Nov-2023 18:31:48 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 19
+[14-Nov-2023 18:31:49 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:31:49UTC;5ddbd6f5-a48e-4ef0-81cf-37ac93274468"}]}
+[14-Nov-2023 18:31:58 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 9
+[14-Nov-2023 18:31:58 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 10
+[14-Nov-2023 18:31:58 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 11
+[14-Nov-2023 18:31:58 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 12
+[14-Nov-2023 18:31:58 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 13
+[14-Nov-2023 18:31:58 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 14
+[14-Nov-2023 18:31:58 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 17
+[14-Nov-2023 18:31:58 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 19
+[14-Nov-2023 18:31:58 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:31:59UTC;03f58389-a0e8-4bb5-ad5a-33b1bc8bcec4"}]}
+[14-Nov-2023 18:38:50 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:38:50 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:38:50 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:38:50 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:38:50 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:38:50 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:38:50 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:38:50 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:38:50 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:38:51UTC;624b9757-7616-4f70-b4cd-40027bf21543"}]}
+[14-Nov-2023 18:39:55 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:39:55 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:39:55 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:39:55 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:39:55 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:39:55 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:39:55 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:39:55 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:39:55 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:39:56UTC;01b267f9-a8ac-4d20-b290-fa33b0b14c51"}]}
+[14-Nov-2023 18:40:47 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:40:47 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:40:47 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:40:47 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:40:47 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:40:47 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:40:47 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:40:47 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:40:48 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:40:48UTC;2e12a5ec-2c17-4933-b98f-ae149b286ff4"}]}
+[14-Nov-2023 18:41:52 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:41:52 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:41:52 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:41:52 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:41:52 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:41:52 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:41:52 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:41:52 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:41:52 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:41:53UTC;b73cb51c-5022-4ea5-9e38-03a8fdef8c6a"}]}
+[14-Nov-2023 18:42:41 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:42:41 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:42:41 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:42:41 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:42:41 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:42:41 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:42:41 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:42:41 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:42:41 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:42:41UTC;e57d9f26-41d8-41dc-8aef-9dccd44abeef"}]}
+[14-Nov-2023 18:42:41 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:42:41 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:42:41 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:42:41 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:42:41 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:42:41 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:42:41 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:42:41 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:42:41 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:42:42UTC;3a8e5218-1e94-430c-9481-4ac4dc484e12"}]}
+[14-Nov-2023 18:43:02 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:43:02 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:43:02 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:43:02 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:43:02 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:43:02 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:43:02 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:43:02 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:43:02 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:43:03UTC;75ac2504-0142-4d63-b7fb-760fbbca938e"}]}
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:43:03 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:43:03UTC;d5e5995a-a296-4378-a76b-f8510e9c9cee"}]}
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:43:03 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:43:04UTC;3c9be5bb-7610-4eb3-8208-e28b5d341963"}]}
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:43:03 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:43:03 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:43:04UTC;32ec7bab-0a9e-4e00-be15-64e3fd6e023a"}]}
+[14-Nov-2023 18:43:07 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:43:07 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:43:07 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:43:07 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:43:07 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:43:07 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:43:07 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:43:07 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:43:07 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:43:08UTC;cd89ac11-7d64-4460-a405-321369a25622"}]}
+[14-Nov-2023 18:43:07 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:43:07 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:43:07 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:43:07 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:43:07 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:43:07 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:43:07 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:43:07 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:43:07 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:43:08UTC;4ddca88d-fea1-4550-888f-f46246d231ba"}]}
+[14-Nov-2023 18:43:08 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:43:08 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:43:08 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:43:08 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:43:08 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:43:08 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:43:08 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:43:08 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:43:08 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:43:09UTC;7a938d9a-492d-40fc-a3bc-b8b01125914c"}]}
+[14-Nov-2023 18:43:09 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:43:09 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:43:09 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:43:09 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:43:09 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:43:09 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:43:09 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:43:09 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:43:09 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:43:10UTC;541f7ee2-f953-43e8-98ee-f5a5ebd7a0eb"}]}
+[14-Nov-2023 18:43:09 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:43:09 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:43:09 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:43:09 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:43:09 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:43:09 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:43:09 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:43:09 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:43:09 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:43:10UTC;5061a377-7a2d-4b56-81ad-ae0c85f2747e"}]}
+[14-Nov-2023 18:44:11 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:44:11 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:44:11 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:44:11 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:44:11 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:44:11 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:44:11 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:44:11 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:44:11 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:44:12UTC;44efae57-5f43-4efb-97ad-020612e6d845"}]}
+[14-Nov-2023 18:44:29 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 18:44:29 UTC] PHP Warning:  Undefined array key "token" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 18:44:29 UTC] PHP Warning:  Undefined array key "description" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 18:44:29 UTC] PHP Warning:  Undefined array key "installments" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 18:44:29 UTC] PHP Warning:  Undefined array key "paymentMethodId" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 18:44:29 UTC] PHP Warning:  Undefined array key "issuer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 14
+[14-Nov-2023 18:44:29 UTC] PHP Warning:  Undefined array key "email" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 17
+[14-Nov-2023 18:44:29 UTC] PHP Warning:  Undefined array key "identificationNumber" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 18:44:29 UTC] {"message":"transaction_amount attribute can't be null","error":"bad_request","status":400,"cause":[{"code":4002,"description":"transaction_amount attribute can't be null","data":"14-11-2023T18:44:30UTC;1ac08038-d221-4e41-a122-9e8b21efa799"}]}
+[14-Nov-2023 18:49:25 UTC] PHP Fatal error:  Uncaught Error: Class "PaymentClient" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 19:15:59 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:7
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require()
+#1 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 7
+[14-Nov-2023 19:16:18 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:7
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require()
+#1 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 7
+[14-Nov-2023 19:16:21 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:7
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require()
+#1 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 7
+[14-Nov-2023 19:16:53 UTC] PHP Fatal error:  Uncaught Error: Class "PaymentClient" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 19:18:23 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 19:19:03 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 19:34:00 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 19:36:57 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 19:37:46 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\Client\Payment\PaymentClient" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 13
+[14-Nov-2023 19:39:19 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 19:40:45 UTC] PHP Warning:  require(../vendor/autoload.php): Failed to open stream: No such file or directory in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 3
+[14-Nov-2023 19:40:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 3
+[14-Nov-2023 20:03:19 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 20:03:46 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPago" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[14-Nov-2023 20:04:36 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPago" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 20:06:47 UTC] PHP Fatal error:  Uncaught Error: Class "MPRequestOptions" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 20:09:45 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 5
+[14-Nov-2023 20:10:09 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\Client\Payment\PaymentClient" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 8
+[14-Nov-2023 20:10:25 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\SDK\Payment\PaymentClient" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 8
+[14-Nov-2023 20:31:59 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 20:33:54 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 20:33:56 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 9
+[14-Nov-2023 20:43:29 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\Client\Payment\PaymentClient" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 20:59:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method MercadoPago\RestClient::setCustomHeaders() in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 11
+[14-Nov-2023 22:17:50 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 7
+[14-Nov-2023 22:21:13 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 7
+[14-Nov-2023 22:21:28 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 7
+[14-Nov-2023 22:23:23 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 8
+[14-Nov-2023 22:23:24 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPago\MercadoPagoConfig" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 8
+[14-Nov-2023 22:37:28 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoSDK" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 3
+[14-Nov-2023 22:37:30 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoSDK" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 3
+[14-Nov-2023 22:38:03 UTC] PHP Fatal error:  Uncaught Error: Class "SDK" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 3
+[14-Nov-2023 22:38:36 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoPayment" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 6
+[14-Nov-2023 22:40:16 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoSDK" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 3
+[14-Nov-2023 22:40:38 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoPayment" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 6
+[14-Nov-2023 22:41:28 UTC] PHP Fatal error:  Uncaught Error: Class "Mercado\PagoPayment" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 6
+[14-Nov-2023 22:41:29 UTC] PHP Fatal error:  Uncaught Error: Class "Mercado\PagoPayment" not found in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 6
+[14-Nov-2023 22:41:53 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting variable or "$" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 6
+[14-Nov-2023 22:42:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 8
+[14-Nov-2023 22:42:49 UTC] PHP Fatal error:  Uncaught Exception: Wrong type NULL. It should be float for property transaction_amount in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:455
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(364): MercadoPago\Entity->tryFormat(NULL, 'float', 'transaction_amo...')
+#1 /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(308): MercadoPago\Entity->_setValue('transaction_amo...', NULL)
+#2 /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php(8): MercadoPago\Entity->__set('transaction_amo...', NULL)
+#3 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php on line 455
+[14-Nov-2023 22:45:18 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 18
+[14-Nov-2023 22:45:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 18
+[14-Nov-2023 22:45:18 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 22:45:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 22:45:18 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"14-11-2023T22:45:19UTC;e6007ec8-e201-4e21-8a60-660b4f30293c"}]}
+[14-Nov-2023 22:47:26 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 18
+[14-Nov-2023 22:47:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 18
+[14-Nov-2023 22:47:26 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 22:47:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 22:47:26 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"14-11-2023T22:47:27UTC;279f66d3-7063-43d3-8752-4662d56e7966"}]}
+[14-Nov-2023 22:50:10 UTC] Error: Please initialize SDK first
+[14-Nov-2023 22:54:39 UTC] Error: Please initialize SDK first
+[14-Nov-2023 23:04:33 UTC] Error: Please initialize SDK first
+[14-Nov-2023 23:06:12 UTC] Error: Please initialize SDK first
+[14-Nov-2023 23:10:56 UTC] Error: Please initialize SDK first
+[14-Nov-2023 23:12:15 UTC] Error: Please initialize SDK first
+[14-Nov-2023 23:15:19 UTC] Error: Please initialize SDK first
+[14-Nov-2023 23:20:22 UTC] Error: Please initialize SDK first
+[14-Nov-2023 23:21:06 UTC] Error: Please initialize SDK first
+[14-Nov-2023 23:26:10 UTC] PHP Fatal error:  Uncaught Exception: Please initialize SDK first in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:39
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php(39): MercadoPago\Entity->__construct()
+#1 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php on line 39
+[14-Nov-2023 23:26:52 UTC] PHP Fatal error:  Uncaught Exception: Please initialize SDK first in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:39
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php(39): MercadoPago\Entity->__construct()
+#1 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php on line 39
+[14-Nov-2023 23:27:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 23:27:53 UTC] PHP Fatal error:  Uncaught Exception: Wrong type NULL. It should be float for property transaction_amount in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:455
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(364): MercadoPago\Entity->tryFormat(NULL, 'float', 'transaction_amo...')
+#1 /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(308): MercadoPago\Entity->_setValue('transaction_amo...', NULL)
+#2 /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php(10): MercadoPago\Entity->__set('transaction_amo...', NULL)
+#3 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php on line 455
+[14-Nov-2023 23:27:58 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 23:27:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 23:27:58 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 20
+[14-Nov-2023 23:27:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 20
+[14-Nov-2023 23:27:58 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"14-11-2023T23:27:59UTC;d400bfcd-e40d-4d59-ac4c-cd8af596fbf8"}]}
+[14-Nov-2023 23:28:32 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 23:28:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 23:28:32 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 20
+[14-Nov-2023 23:28:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 20
+[14-Nov-2023 23:28:32 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"14-11-2023T23:28:33UTC;c48f3301-75d6-4d3e-bfcd-e4a24a8f44b8"}]}
+[14-Nov-2023 23:29:47 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 23:29:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 23:29:47 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 20
+[14-Nov-2023 23:29:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 20
+[14-Nov-2023 23:29:48 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"14-11-2023T23:29:48UTC;87ad0787-11c0-47a5-b9a4-880ce47ce77f"}]}
+[14-Nov-2023 23:31:22 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 23:31:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 23:31:22 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 20
+[14-Nov-2023 23:31:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 20
+[14-Nov-2023 23:31:22 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"14-11-2023T23:31:23UTC;223dab81-6e94-4943-95e6-5dac86db561c"}]}
+[14-Nov-2023 23:39:54 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 23:39:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 19
+[14-Nov-2023 23:39:54 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 20
+[14-Nov-2023 23:39:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 20
+[14-Nov-2023 23:39:54 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"14-11-2023T23:39:55UTC;a6b5701b-98dd-41d3-949f-49e69a17d769"}]}
+[14-Nov-2023 23:40:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 10
+[14-Nov-2023 23:42:13 UTC] PHP Parse error:  syntax error, unexpected variable "$payer" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 16
+[14-Nov-2023 23:45:54 UTC] {"message":"Invalid payment_method_id","error":"bad_request","status":400,"cause":[{"code":3028,"description":"Invalid payment_method_id","data":"14-11-2023T23:45:55UTC;ae6c06ca-4a53-44b6-a01e-4adf636f9353"}]}
+[14-Nov-2023 23:49:05 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"14-11-2023T23:49:06UTC;a0fd27ba-e33f-4d11-a441-7f31b7e5601f"}]}
+[14-Nov-2023 23:49:08 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"14-11-2023T23:49:09UTC;e05197ce-6322-400d-b072-30f183047d68"}]}
+[14-Nov-2023 23:50:50 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"14-11-2023T23:50:51UTC;11fa570d-7f95-4b2d-a5bb-81136fddbf21"}]}
+[14-Nov-2023 23:51:26 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"14-11-2023T23:51:26UTC;c134dfe5-50a4-44f7-a486-2e3b5dc91045"}]}
+[14-Nov-2023 23:51:26 UTC] PHP Warning:  Undefined variable $e in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 37
+[14-Nov-2023 23:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMessage() on null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 37
+[14-Nov-2023 23:53:45 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"14-11-2023T23:53:46UTC;181f5c90-6ae9-48ed-b48f-55d49bb3c9bd"}]}
+[14-Nov-2023 23:53:48 UTC] PHP Warning:  require(./MercadoPago/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 23:53:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './MercadoPago/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:2
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require()
+#1 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 23:53:49 UTC] PHP Warning:  require(./MercadoPago/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 23:53:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './MercadoPago/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php:2
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require()
+#1 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 2
+[14-Nov-2023 23:54:13 UTC] PHP Warning:  Undefined array key "orden" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 8
+[14-Nov-2023 23:54:13 UTC] PHP Warning:  Undefined variable $conceptoTotal in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 9
+[14-Nov-2023 23:54:13 UTC] PHP Warning:  Undefined variable $pago in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 11
+[14-Nov-2023 23:54:13 UTC] PHP Warning:  Attempt to read property "total" on null in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 11
+[14-Nov-2023 23:54:13 UTC] PHP Fatal error:  Uncaught Exception: Wrong type NULL. It should be float for property unit_price in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:455
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(364): MercadoPago\Entity->tryFormat(NULL, 'float', 'unit_price')
+#1 /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(308): MercadoPago\Entity->_setValue('unit_price', NULL)
+#2 /home/wwtrac/public_html/sasammr/MercadoPago/preference.php(11): MercadoPago\Entity->__set('unit_price', NULL)
+#3 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require('/home/wwtrac/pu...')
+#4 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php on line 455
+[14-Nov-2023 23:54:32 UTC] PHP Warning:  Undefined array key "orden" in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 8
+[14-Nov-2023 23:54:32 UTC] PHP Warning:  Undefined variable $conceptoTotal in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 9
+[14-Nov-2023 23:54:32 UTC] PHP Warning:  Undefined variable $pago in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 11
+[14-Nov-2023 23:54:32 UTC] PHP Warning:  Attempt to read property "total" on null in /home/wwtrac/public_html/sasammr/MercadoPago/preference.php on line 11
+[14-Nov-2023 23:54:32 UTC] PHP Fatal error:  Uncaught Exception: Wrong type NULL. It should be float for property unit_price in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:455
+Stack trace:
+#0 /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(364): MercadoPago\Entity->tryFormat(NULL, 'float', 'unit_price')
+#1 /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(308): MercadoPago\Entity->_setValue('unit_price', NULL)
+#2 /home/wwtrac/public_html/sasammr/MercadoPago/preference.php(11): MercadoPago\Entity->__set('unit_price', NULL)
+#3 /home/wwtrac/public_html/sasammr/MercadoPago/index.php(2): require('/home/wwtrac/pu...')
+#4 {main}
+  thrown in /home/wwtrac/public_html/sasammr/MercadoPago/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php on line 455
+[14-Nov-2023 23:56:50 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"14-11-2023T23:56:51UTC;7b615e22-bfc8-43ee-83e3-1473fcee922c"}]}
+[14-Nov-2023 23:57:08 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"14-11-2023T23:57:09UTC;8481a602-4a5e-4201-a896-1e2675be695e"}]}
+[14-Nov-2023 23:57:27 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"14-11-2023T23:57:28UTC;c35aca1f-81b8-48f0-97da-8c4cda544465"}]}
+[14-Nov-2023 23:57:39 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"14-11-2023T23:57:40UTC;8b66fcd0-9659-484c-ac67-c7c45a01b7c1"}]}
+[15-Nov-2023 00:04:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[15-Nov-2023 00:04:54 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 21
+[15-Nov-2023 00:04:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 21
+[15-Nov-2023 00:04:54 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 22
+[15-Nov-2023 00:04:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 22
+[15-Nov-2023 00:04:54 UTC] {"message":"payer.email must be a valid email","error":"bad_request","status":400,"cause":[{"code":4050,"description":"payer.email must be a valid email","data":"15-11-2023T00:04:55UTC;273c3488-8b77-4888-a897-4d596f96af4c"}]}
+[15-Nov-2023 00:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[15-Nov-2023 00:19:24 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 21
+[15-Nov-2023 00:19:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 21
+[15-Nov-2023 00:19:24 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 22
+[15-Nov-2023 00:19:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 22
+[15-Nov-2023 00:19:25 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"15-11-2023T00:19:25UTC;4fcc7454-2126-44ca-86d0-0a296d512ac8"}]}
+[15-Nov-2023 16:51:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 12
+[15-Nov-2023 16:54:08 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 21
+[15-Nov-2023 16:54:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 21
+[15-Nov-2023 16:54:08 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 22
+[15-Nov-2023 16:54:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 22
+[15-Nov-2023 16:54:08 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"15-11-2023T16:54:09UTC;be64fd78-5a54-4a7b-b821-7e329ef468c2"}]}
+[15-Nov-2023 17:18:54 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 21
+[15-Nov-2023 17:18:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 21
+[15-Nov-2023 17:18:54 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 22
+[15-Nov-2023 17:18:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 22
+[15-Nov-2023 17:18:54 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"15-11-2023T17:18:55UTC;db8c3e47-79a7-4015-b7b5-d4cf0440b39c"}]}
+[15-Nov-2023 18:30:33 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 21
+[15-Nov-2023 18:30:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 21
+[15-Nov-2023 18:30:33 UTC] PHP Warning:  Undefined array key "identification" in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 22
+[15-Nov-2023 18:30:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wwtrac/public_html/sasammr/MercadoPago/proces_pyment.php on line 22
+[15-Nov-2023 18:30:33 UTC] {"message":"Header X-Idempotency-Key can’t be null","error":"bad_request","status":400,"cause":[{"code":4292,"description":"Header X-Idempotency-Key can’t be null","data":"15-11-2023T18:30:34UTC;3f93b329-14a5-4a1b-b8d2-701279e4c3c9"}]}
